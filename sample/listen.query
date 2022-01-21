@@ -1,0 +1,2 @@
+LOAD ../db/t1.tbl;
+UPDATE ( cF 12 ) FROM t1 WHERE ( KEY = r10 );
